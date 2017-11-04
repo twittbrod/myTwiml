@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say> Incident response conference is launching.  Please wait for SWAT team to join. </Say>
+  <Say> Welcome SWAT rock star. </Say>
   <Dial>
     <Conference beep="true">9911</Conference>
   </Dial>
