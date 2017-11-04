@@ -2,6 +2,6 @@
 <Response>
   <Say> Welcome SWAT rock star. </Say>
   <Dial>
-    <Conference>9911</Conference>
+    <Conference>Incident Room</Conference>
   </Dial>
 </Response>
