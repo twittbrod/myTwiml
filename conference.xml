@@ -2,6 +2,6 @@
 <Response>
   <Say> Incident response conference is launching.  Please wait for SWAT team to join. </Say>
   <Dial>
-    <Conference beep="true">Conf911</Conference>
+    <Conference beep="true">9911</Conference>
   </Dial>
  </Response>
